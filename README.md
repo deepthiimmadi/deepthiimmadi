@@ -44,11 +44,6 @@ I design and lead scalable .NET and AWS microservices solutions for regulated, e
 | [dotnet-microservices-sample](https://github.com/deepthiimmadi/dotnet-microservices-sample) | .NET 8 workflow microservice — clean API design, validation, health checks, in-memory store |
 | [python-ai-rag-sample](https://github.com/deepthiimmadi/python-ai-rag-sample) | Python RAG-style search over local docs — grounded answers that cite their sources |
 
-## 📊 GitHub Stats
-
-![Deepthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepthiimmadi&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthiimmadi&layout=compact&theme=transparent&hide_border=true)
-
 ## 🏅 Certifications
 
 - AWS Certified Solutions Architect — Associate
